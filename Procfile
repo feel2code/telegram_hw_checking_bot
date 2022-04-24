@@ -1,0 +1,1 @@
+worker: python homework_check.py
